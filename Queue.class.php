@@ -1,6 +1,6 @@
 <?php
 /**
- * 基本redis手消息队列
+ * 基本redis的消息队列
  * 用法:
  * use Com\Queue;
  * $queue = Queue::getInstance('msg');
